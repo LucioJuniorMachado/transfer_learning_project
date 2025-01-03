@@ -1,7 +1,7 @@
 # transfer_learning_project
-This is a project from BairesDev - Machine Learning Practitioner bootcamp
+Foi um projeto para a BairesDev - Machine Learning Practitioner bootcamp
 
-Transfer learning and fine-tuning
+Transfer learning e fine-tuning
 
 Download de dados
 Usei um conjunto de dados contendo vários milhares de imagens de cães e gatos. Fiz download e extraí um arquivo zip contendo as imagens e crie um tf.data.Dataset para treinamento e validação usando o utilitário tf.keras.utils.image_dataset_from_directory .
