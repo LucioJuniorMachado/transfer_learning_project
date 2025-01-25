@@ -1,5 +1,5 @@
 # transfer_learning_project
-Foi um projeto para a BairesDev - Machine Learning Practitioner bootcamp
+Foi um projeto para a BairesDev - Machine Learning Practitioner bootcamp através do colab fornecido pelo professor da pós-graduação em BI Leonardo Mendonza.
 
 Transfer learning e fine-tuning
 
